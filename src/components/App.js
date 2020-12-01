@@ -9,6 +9,7 @@ import StreamDelete from "./streams/StreamDelete";
 const App = () => {
   return (
     <Fragment>
+      <h1>Header!</h1>
       <div>
         <BrowserRouter>
           <div>
